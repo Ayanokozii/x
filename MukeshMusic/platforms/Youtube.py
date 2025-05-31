@@ -27,7 +27,7 @@ async def shell_cmd(cmd):
     return out.decode("utf-8")
 
 
-cookies_file = "Spotify/cookies.txt"
+cookies_file = "MukeshMusic/cookies.txt"
 
 class YouTubeAPI:
     def __init__(self):
